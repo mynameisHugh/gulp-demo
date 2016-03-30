@@ -1,0 +1,14 @@
+.header {
+  .test {
+    width: 100px;
+  }
+  .text {
+    height: 300px;
+    .text-header {
+      border: 1px solid #ff00bb;
+    }
+    .text-footer{
+      border:2px solid #ff00ff;
+    }
+  }
+}

@@ -1,0 +1,18 @@
+.clearfix {
+  *zoom: 1;
+  .b{
+    color:#fff;
+  }
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix:before,
+.clearfix:after {
+  content: ' ';
+  display: table;
+}
+.ac {
+  color: red;
+  font-size: 12px;
+}

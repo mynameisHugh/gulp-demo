@@ -1,0 +1,10 @@
+.header .test {
+  width: 100px; }
+.header .text {
+  height: 300px; }
+  .header .text .text-header {
+    border: 1px solid #ff00bb; }
+  .header .text .text-footer {
+    border: 2px solid #ff00ff; }
+
+/*# sourceMappingURL=test123.css.map */

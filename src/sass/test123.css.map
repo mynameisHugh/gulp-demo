@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,aAAM;EACJ,KAAK,EAAE,KAAK;AAEd,aAAM;EACJ,MAAM,EAAE,KAAK;EACb,0BAAa;IACX,MAAM,EAAE,iBAAiB;EAE3B,0BAAY;IACV,MAAM,EAAC,iBAAiB",
+"sources": ["test123.scss"],
+"names": [],
+"file": "test123.css"
+}

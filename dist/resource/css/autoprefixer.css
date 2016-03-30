@@ -1,0 +1,11 @@
+.a{
+    opacity:0.5;
+    border-radius:2px;
+    -webkit-border-radius : 2px;
+    transition :transform 1s;
+    width : calc(50% - 2em);
+    display : flex
+}
+::placeholder {
+    color : #ccc
+}
